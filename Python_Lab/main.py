@@ -1,0 +1,1 @@
+print(f"The sum of two nos is ",7+5)
